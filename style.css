@@ -1,0 +1,61 @@
+@import url("https://fonts.googleapis.com/css2?family=Quicksand:wght@300&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Sansita:ital@1&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Encode+Sans+SC:wght@100&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Source+Sans+Pro:ital,wght@1,200&display=swap");
+
+main {
+  background: #eee;
+  padding: 15px;
+  border-radius: 5px;
+  margin: 20px 8px;
+}
+
+body {
+  text-align: center;
+  font-family: Source Sans PRO;
+  font-size: 18px;
+}
+
+img {
+  width: 800px;
+  max-width: 100%;
+  display: block;
+  height: auto;
+  margin: 0 auto;
+}
+
+h1 {
+  color: #0f0400;
+  font-size: 2.5rem;
+  text-align: center;
+  font-family: Quicksand;
+
+}
+
+p {
+  text-align: center;
+}
+
+#img-caption {
+  font-size: 13px;
+}
+
+blockquote {
+  text-align: center;
+  font-style: italic;
+  margin: 0 auto 20px auto;
+}
+
+a {
+  color: #3e9fc1;
+}
+
+ol {
+  text-align: center;
+}
+
+#img-div {
+  background: white;
+  padding: 10px;
+  margin: 0px;
+}
